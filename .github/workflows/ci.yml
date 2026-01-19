@@ -29,3 +29,5 @@ jobs:
 
     - name: Run Tests (placeholder)
       run: echo "Tests would run here"
+    - run: pytest
+
